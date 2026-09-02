@@ -16,7 +16,10 @@
     "README.md",
     "LICENSE"
   ],
-  "repository": "github:alexeyco/pi-tea",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyco/pi-tea.git"
+  },
   "pi": {
     "skills": [
       "./skills"

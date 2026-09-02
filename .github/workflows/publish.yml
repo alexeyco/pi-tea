@@ -23,6 +23,6 @@ jobs:
             echo "tag $GITHUB_REF_NAME does not match package.json version $expected" >&2
             exit 1
           fi
-      - run: npm publish --provenance
+      - run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
