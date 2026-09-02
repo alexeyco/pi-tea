@@ -40,6 +40,6 @@ make check
 Install for users:
 
 ```sh
-pi install npm:pi-tea          # latest
-pi install npm:pi-tea@0.1.0    # pinned
+pi install npm:@alexeyco/pi-tea          # latest
+pi install npm:@alexeyco/pi-tea@0.2.0    # pinned
 ```
