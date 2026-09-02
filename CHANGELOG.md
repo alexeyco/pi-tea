@@ -1,8 +1,8 @@
 # Changelog
 
-Notable changes to this project. Format loosely follows
-[Keep a Changelog](https://keepachangelog.com); versions follow
-[semver](https://semver.org).
+## 0.1.1
+
+- Gallery preview: terminal demo (`docs/gallery/`), wired via `pi.image`.
 
 ## 0.1.0
 

@@ -4,6 +4,10 @@
 
 Teaches the agent to drive the [`tea`](https://gitea.com/gitea/tea) CLI: browse repos, issues, pulls, releases, branches, comments and notifications. Read-only by default; anything state-changing requires explicit confirmation.
 
+<p align="center">
+  <img src="docs/gallery/terminal.png" alt="pi-tea demo" width="640">
+</p>
+
 ## Install
 
 ```sh
