@@ -1,4 +1,4 @@
-# pi-tea
+# @alexeyco/pi-tea
 
 Forgejo/Gitea skill for the pi coding agent, published as a pi package.
 Human-facing docs: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md).

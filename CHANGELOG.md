@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.0
+
+- Renamed npm package `pi-tea` → `@alexeyco/pi-tea`; install with
+  `pi install npm:@alexeyco/pi-tea`.
+
 ## 0.1.1
 
 - Gallery preview: terminal demo (`docs/gallery/`), wired via `pi.image`.
