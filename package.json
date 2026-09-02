@@ -1,6 +1,6 @@
 {
   "name": "pi-tea",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Forgejo/Gitea skill for the pi coding agent — browse repos, issues, and pulls via the tea CLI",
   "keywords": [
     "ai",
@@ -23,6 +23,7 @@
   "pi": {
     "skills": [
       "./skills"
-    ]
+    ],
+    "image": "https://raw.githubusercontent.com/alexeyco/pi-tea/master/docs/gallery/terminal.png"
   }
 }
