@@ -1,0 +1,25 @@
+{
+  "name": "pi-tea",
+  "version": "0.1.0",
+  "description": "Forgejo/Gitea skill for the pi coding agent — browse repos, issues, and pulls via the tea CLI",
+  "keywords": [
+    "ai",
+    "forgejo",
+    "gitea",
+    "pi",
+    "pi-package",
+    "tea"
+  ],
+  "license": "MIT",
+  "files": [
+    "skills",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": "github:alexeyco/pi-tea",
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
