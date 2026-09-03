@@ -1,5 +1,15 @@
 # @alexeyco/pi-tea
 
+> **Deprecated** — this package has been renamed to
+> [`@alexeyco/tea`](https://www.npmjs.com/package/@alexeyco/tea). Install the
+> new package instead:
+>
+> ```sh
+> pi install npm:@alexeyco/tea
+> ```
+>
+> `@alexeyco/pi-tea` will not receive any further updates.
+
 [Forgejo](https://forgejo.org) / [Gitea](https://gitea.io) skill for the [pi](https://pi.dev) coding agent.
 
 Teaches the agent to drive the [`tea`](https://gitea.com/gitea/tea) CLI: browse repos, issues, pulls, releases, branches, comments and notifications. Read-only by default; anything state-changing requires explicit confirmation.
@@ -10,10 +20,10 @@ Teaches the agent to drive the [`tea`](https://gitea.com/gitea/tea) CLI: browse 
 
 ## Install
 
+Deprecated — install the renamed package instead:
+
 ```sh
-pi install npm:@alexeyco/pi-tea
-# or pinned to a git ref
-pi install git:github.com/alexeyco/pi-tea@v0.2.0
+pi install npm:@alexeyco/tea
 ```
 
 Requires the `tea` CLI and a configured login (`tea login add`).
