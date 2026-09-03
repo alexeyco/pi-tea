@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Deprecated: package renamed to `@alexeyco/tea`; install with
+  `pi install npm:@alexeyco/tea`. No further releases under the
+  `@alexeyco/pi-tea` name.
+
 ## 0.2.0
 
 - Renamed npm package `pi-tea` → `@alexeyco/pi-tea`; install with
